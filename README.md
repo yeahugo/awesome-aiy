@@ -3,8 +3,10 @@
 > Google AIY Projects brings do-it-yourself artificial intelligence to your maker projects. With this AIY Voice Kit from Google, you can build a standalone voice recognition system using the Google Assistant or add voice recognition and natural language processing to your Raspberry Pi based projects.
 
 ## Contents
+
 - [Voice Kit Projects](#voice kit projects)
 - [Vision Kit Projects](#vision kit projects)
+- [Utils](#utils)
 
 ## Voice Kit Projects
 
