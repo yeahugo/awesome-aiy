@@ -4,8 +4,8 @@
 
 ## Contents
 
-- [Voice Kit Projects](#voice kit projects)
-- [Vision Kit Projects](#vision kit projects)
+- [Voice Kit Projects](#voice_kit_projects)
+- [Vision Kit Projects](#vision_kit_projects)
 - [Utils](#utils)
 
 ## Voice Kit Projects
